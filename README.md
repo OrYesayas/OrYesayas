@@ -5,6 +5,6 @@
 🌱 Currently expanding my skills in C, Assembly, and exploring data structures and algorithms.  
 🚀 Building projects, learning new technologies, and growing every day.
 
-📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/or-yesayas-b26b4433b).
+📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/oryesayas).
 
 ⚡ Fun fact: I love blending technology with creativity and always eager to learn something new!
