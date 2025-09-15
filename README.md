@@ -3,7 +3,7 @@
 🎓 I'm a first-year Computer Science student at HIT (Holon Institute of Technology)  
 🛡️ Security background with 2+ years of experience as a Shift Supervisor at the U.S. Embassy  
 💻 Passionate about low-level programming, problem-solving, and software development  
-🌱 Currently learning: C, Python, algorithms, and systems programming  
+🌱 Currently learning: C,C++, Python, algorithms, and systems programming  
 🎯 Member of the Atidim for Industry and High-Tech program
 
 ---
