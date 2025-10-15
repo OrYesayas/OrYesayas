@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Or Yesayas
 
-🎓 I'm a first-year Computer Science student at HIT (Holon Institute of Technology)  
+🎓 I'm a second-year Computer Science student at HIT (Holon Institute of Technology)  
 🛡️ Security background with 2+ years of experience as a Shift Supervisor at the U.S. Embassy  
 💻 Passionate about low-level programming, problem-solving, and software development  
 🌱 Currently learning: C,C++, Python, algorithms, and systems programming  
